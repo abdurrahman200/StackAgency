@@ -1,4 +1,9 @@
-.container{
-    height: 100vh;
-    background-color: red;
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+* {
+   font-family: 'Rajdhani', sans-serif;
+}
+
+.container {
+   height: 100vh;
+   background-color: red;
 }
